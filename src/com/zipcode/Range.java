@@ -1,15 +1,15 @@
 package com.zipcode;
 
-public class Point {
+public class Range {
 	Integer x;
 	Integer y;
 
-	public Point(Integer x, Integer y) {
+	public Range(Integer x, Integer y) {
 		this.x = x;
 		this.y = y;
 	}
 
-	public Point() {
+	public Range() {
 	}
 
 	public Integer getX() {
